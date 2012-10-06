@@ -1,6 +1,6 @@
 #$Id: Makefile,v 1.1.1.1 2006/06/18 22:45:29 bl0rg Exp $
 
-MAIN = ho
+MAIN = book
 CC = latex
 INSTALLDIR = /floppy
 VIEWER = xdvi
